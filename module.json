@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-adv-afoot-in-the-reikland",
+    "title": "WFRP4e - Adventures Afoot in the Reikland",
+    "description": "Adventure Hooks for Adventures in the Reikland",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-adv-afoot-in-the-reikland",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-adv-afoot-in-the-reikland/releases/download/1.0.0/module.json"
+}
