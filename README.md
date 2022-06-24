@@ -1,2 +1,2 @@
 # wfrp4e-adv-afoot-in-the-reikland
-WFRP4e for FoundryVTT - Adventures afoot in the Reikland
+WFRP4e for FoundryVTT - Adventures Afoot in the Reikland
